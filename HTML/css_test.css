@@ -1,0 +1,26 @@
+h1{
+    font-size : 40px;
+    color : olive;
+}
+
+p{
+    font-size : 20px;
+    color : skyblue;
+}
+
+.another-content{
+    color : red;
+}
+
+.image-wrapper img.cat_image{
+    width : 200px;
+    height : auto;
+}
+
+#anotherPic{
+    display:block;
+    text-align: center;
+    color : blue;
+    text-decoration: none;
+    border: 1px solid red;
+}
